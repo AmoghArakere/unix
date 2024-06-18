@@ -46,3 +46,9 @@ int main()
   closelog();
   return EXIT_SUCCESS;
 }
+
+/*gcc -o fname fname.c
+./fname
+ps aux 
+To display syslog
+tail -f /var/log/syslog*/
