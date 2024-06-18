@@ -28,3 +28,10 @@ int main()
   }
   return 0;
 }
+
+/*
+Gcc -o echoall echoall.c
+Chmod 777 text interpreter
+Gcc -o inter inter.c
+./inter
+*/
