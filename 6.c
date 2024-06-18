@@ -26,3 +26,14 @@ int main(int argc, char *argv[])
   }
   return 0;
 }
+
+/*
+  touch src.txt
+  sleep 2
+  touch dest.txt
+  stat src.txt
+  stat dest.txt
+  cc fname.c
+  stat dest.txt
+*/
+
