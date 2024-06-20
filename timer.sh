@@ -15,8 +15,8 @@ done
 
 echo "Time's up!"
 
-/*
 
-chmod +x timer.sh
-./timer.sh 60
-*/
+#chmod +x timer.sh
+#./timer.sh 60
+
+
